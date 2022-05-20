@@ -64,6 +64,13 @@ Submission: Please use Python for the project. Please create a jupyter notebook 
 **Deadline: 25/May/2022**
 
 ## :point_right: BI and Data analytics <a name="BI"></a>
+Dataset:
+Description:
+
+Tasks:
+1.
+2.
+3.
 
 Submission: Please use Python for the project. Please create a jupyter notebook with your solutions. Use markdown to answer the questions and describe your code. Push your work to github. Make sure you have all the info for creating your working environment. Use this form to submit your work: https://forms.gle/wVAcjBgSWwcp7HyH9
 
