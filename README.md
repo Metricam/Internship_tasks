@@ -12,6 +12,7 @@ Tasks per track:
 
 ## :point_right: Data Science and Time Series Forecasting <a name="TS"></a>
 Dataset: https://www.kaggle.com/datasets/utathya/future-volume-prediction
+
 Description: this is a demand forecasting data for different agencies with different SKUs. The same data used in pytorch-forecasting TFT example.
 
 Tasks:
@@ -33,6 +34,7 @@ Submission: Please use Python for the project. Please create a jupyter notebook 
 
 ## :point_right: NLP and Deep Learning <a name="NLP"></a>
 Dataset: https://www.kaggle.com/datasets/mewbius/ecommerce-products
+
 Description: the dataset contains a small sample of labeled examples and a lot of unlabeled product information. You will have several tasks on this dataset with classification of product category based on description being the main task.
 
 Tasks:
@@ -49,6 +51,7 @@ Submission: Please use Python for the project. Please create a jupyter notebook 
 
 ## :point_right: Image Processing and Computer Vision <a name="CV"></a>
 Image:
+
 Description: Consider the image above. The task is to be able to detect different shapes and calculate their area in the picture. 
 
 Tasks:
@@ -65,12 +68,13 @@ Submission: Please use Python for the project. Please create a jupyter notebook 
 
 ## :point_right: BI and Data analytics <a name="BI"></a>
 Dataset:
+
 Description:
 
 Tasks:
-1.
-2.
-3.
+1. A
+2. A
+3. A
 
 Submission: Please use Python for the project. Please create a jupyter notebook with your solutions. Use markdown to answer the questions and describe your code. Push your work to github. Make sure you have all the info for creating your working environment. Use this form to submit your work: https://forms.gle/wVAcjBgSWwcp7HyH9
 
