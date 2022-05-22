@@ -50,7 +50,7 @@ Submission: Please use Python for the project. Please create a jupyter notebook 
 **Deadline: 27/May/2022**
 
 ## :point_right: Image Processing and Computer Vision <a name="CV"></a>
-Image: Image_for_CV_task_1.jpg
+Image: [Image_for_CV_task_1.jpg](Image_for_CV_task_1.jpg)
 
 Description: Consider the image above. The task is to be able to detect different shapes and calculate their area in the picture. 
 
