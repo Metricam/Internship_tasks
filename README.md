@@ -30,7 +30,7 @@ Please explain how your method works.
 
 Submission: Please use Python for the project. Please create a jupyter notebook with your solutions. Use markdown to answer the questions and describe your code. Push your work to github. Make sure you have all the info for creating your working environment. Use this form to submit your work: https://forms.gle/wVAcjBgSWwcp7HyH9
 
-**Deadline: 25/May/2022**
+**Deadline: 27/May/2022**
 
 ## :point_right: NLP and Deep Learning <a name="NLP"></a>
 Dataset: https://www.kaggle.com/datasets/mewbius/ecommerce-products
@@ -47,10 +47,10 @@ Tasks:
 
 Submission: Please use Python for the project. Please create a jupyter notebook with your solutions. Use markdown to answer the questions and describe your code. Push your work to github. Make sure you have all the info for creating your working environment. Use this form to submit your work: https://forms.gle/wVAcjBgSWwcp7HyH9
 
-**Deadline: 25/May/2022**
+**Deadline: 27/May/2022**
 
 ## :point_right: Image Processing and Computer Vision <a name="CV"></a>
-Image:
+Image: Image_for_CV_task_1.jpg
 
 Description: Consider the image above. The task is to be able to detect different shapes and calculate their area in the picture. 
 
@@ -64,20 +64,39 @@ Please create 3 different methods:
 
 Submission: Please use Python for the project. Please create a jupyter notebook with your solutions. Use markdown to answer the questions and describe your code. Push your work to github. Make sure you have all the info for creating your working environment. Use this form to submit your work: https://forms.gle/wVAcjBgSWwcp7HyH9
 
-**Deadline: 25/May/2022**
+**Deadline: 27/May/2022**
 
 ## :point_right: BI and Data analytics <a name="BI"></a>
-Dataset:
+Dataset: `bigquery-public-data.crypto_ethereum` on Google BigQuery
 
-Description:
+Description: Please create an account in Google BigQuery if you don’t have one yet. The task is to calculate the several features/variables for each address on the publicly available dataset `bigquery-public-data.crypto_ethereum`:
 
 Tasks:
-1. A
-2. A
-3. A
+Calculate the following features:
+1. transactions sent
+2. transactions recieved
+3/ ETH sent
+3. ETH recieved
+4. Average monthly transactions sent
+5. Average monthly transactions recieved
+6. Average monthly ETH sent
+7. Average monthly ETH recieved
+8. Average time between transactions sent
+9. Average time between transactions recieved
+10. STD of time between transactions sent
+11. STD of time between transactions recieved
+12. Active months
+13. ETH balance
+14. After calculating the features, use different visualizations to try to find relationships between the features. You should be able to find/see distinct groups of addresses. Please use statistical tests to find groups or validate that the groups are indeed different. 
+
+Notes:
+- Please note. 1 WEI is equal to 10^-18 ETH. So you need to convert all the WEI into ETH.
+- Please use the Python library called `google-cloud-bigquery` to access the DB and calculate the features.
+- You can learn more about the dataset from here: `https://www.kaggle.com/datasets/bigquery/ethereum-blockchain/code?utm_medium=partner&utm_source=cloud&utm_campaign=big+data+blog+ethereum`
+
 
 Submission: Please use Python for the project. Please create a jupyter notebook with your solutions. Use markdown to answer the questions and describe your code. Push your work to github. Make sure you have all the info for creating your working environment. Use this form to submit your work: https://forms.gle/wVAcjBgSWwcp7HyH9
 
-**Deadline: 25/May/2022**
+**Deadline: 27/May/2022**
 
 ---
