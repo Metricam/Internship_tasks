@@ -30,7 +30,6 @@ Please explain how your method works.
 
 Submission: Please use Python for the project. Please create a jupyter notebook with your solutions. Use markdown to answer the questions and describe your code. Push your work to github. Make sure you have all the info for creating your working environment. Use this form to submit your work: https://forms.gle/wVAcjBgSWwcp7HyH9
 
-**Deadline: 27/May/2022**
 
 ## :point_right: NLP and Deep Learning <a name="NLP"></a>
 Dataset: https://www.kaggle.com/datasets/mewbius/ecommerce-products
@@ -47,7 +46,6 @@ Tasks:
 
 Submission: Please use Python for the project. Please create a jupyter notebook with your solutions. Use markdown to answer the questions and describe your code. Push your work to github. Make sure you have all the info for creating your working environment. Use this form to submit your work: https://forms.gle/wVAcjBgSWwcp7HyH9
 
-**Deadline: 27/May/2022**
 
 ## :point_right: Image Processing and Computer Vision <a name="CV"></a>
 Image: [Image_for_CV_task_1.jpg](Image_for_CV_task_1.jpg)
@@ -63,8 +61,6 @@ Please create 3 different methods:
 5. Assume you have a high resolution image (30000 x 30000 pixels). The image cannot be fully read into the memory of your machine. So you have to divide the image into grids and process the grids separately. Maximum size of the grid can be 3000x3000. Will your solutions work in that case? If not, how can you make them work? How would you approach the problem? How would you do the splitting/cutting into grids. Please go over all the three approaches and cover if they would work or not, and if not what can you do to make them work. 
 
 Submission: Please use Python for the project. Please create a jupyter notebook with your solutions. Use markdown to answer the questions and describe your code. Push your work to github. Make sure you have all the info for creating your working environment. Use this form to submit your work: https://forms.gle/wVAcjBgSWwcp7HyH9
-
-**Deadline: 27/May/2022**
 
 ## :point_right: BI and Data analytics <a name="BI"></a>
 Dataset: `bigquery-public-data.crypto_ethereum` on Google BigQuery
@@ -96,7 +92,5 @@ Notes:
 
 
 Submission: Please use Python for the project. Please create a jupyter notebook with your solutions. Use markdown to answer the questions and describe your code. Push your work to github. Make sure you have all the info for creating your working environment. Use this form to submit your work: https://forms.gle/wVAcjBgSWwcp7HyH9
-
-**Deadline: 27/May/2022**
 
 ---
